@@ -125,7 +125,8 @@
 
 ## 3、图表选择
 
-- ![图表](./file/images/chat.jpg)
+<!-- - ![图表](./file/images/chat.jpg) -->
+- <img alt="图表" src="./file/images/chat.jpg" />
 
 ## 4、数据看板
 
