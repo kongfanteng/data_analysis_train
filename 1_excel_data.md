@@ -125,8 +125,7 @@
 
 ## 3、图表选择
 
-<!-- - ![图表](./file/images/chat.jpg) -->
-- <img alt="图表" src="./file/images/chat.jpg" />
+- <img alt="图表选择图示" src="./file/images/chat.jpg" />
 
 ## 4、数据看板
 
@@ -147,7 +146,7 @@
     - 有效防止辛普森悖论
     - 保证你的分析结论是正确的
 - 漏斗分析方法
-  - ![漏斗分析方法图示](./file/images/漏斗分析方法.jpg)
+  - <img alt="漏斗分析方法图示" src="./file/images/漏斗分析方法.jpg" />
   - 作用：
     - 定位问题业务环节
     - 预估（倒推）
